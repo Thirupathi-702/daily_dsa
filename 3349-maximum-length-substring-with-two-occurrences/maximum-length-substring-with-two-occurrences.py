@@ -8,7 +8,7 @@ class Solution:
         while j<n:
             d[s[j]]=d.get(s[j],0)+1
             while d[s[j]]==3:
-                d[s[i]]=d.get(s[i],0)-1
+                d[s[i]]-=1
                 i+=1
             a=max(a,j-i+1)
             j+=1
