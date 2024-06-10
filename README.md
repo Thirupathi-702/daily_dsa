@@ -26,3 +26,7 @@
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Thirupathi-702/daily_dsa/tree/master/1137-height-checker) |
+# Database
+|  |
+| ------- |
+| [0619-biggest-single-number](https://github.com/Thirupathi-702/daily_dsa/tree/master/0619-biggest-single-number) |
