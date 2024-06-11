@@ -1,13 +1,15 @@
 class Solution:
     def relativeSortArray(self, arr1: List[int], arr2: List[int]) -> List[int]:
-        c=[]
+        c=[0]*1001
+        v=[]
+        for i in range(len(arr1)):
+            c[arr1[i]]+=1
         for i in range(len(arr2)):
-            for j in range(len(arr1)):
-                if arr1[j]==arr2[i]:
-                    c.append(arr1[j])
-                    arr1[j]=-1
-        arr1.sort()
-        for j in arr1:
-            if j!=-1:
-                c.append(j)
-        return c
+            while c[arr2[i]]>0:
+                v.append(arr2[i])
+                c[arr2[i]]-=1
+        for i in range (len(c)):
+            while c[i]>0:
+                v.append(i)
+                c[i]-=1
+        return v
