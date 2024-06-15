@@ -41,3 +41,7 @@
 |  |
 | ------- |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Thirupathi-702/daily_dsa/tree/master/0982-minimum-increment-to-make-array-unique) |
+# Math
+|  |
+| ------- |
+| [0263-ugly-number](https://github.com/Thirupathi-702/daily_dsa/tree/master/0263-ugly-number) |
