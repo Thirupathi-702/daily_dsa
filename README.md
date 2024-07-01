@@ -45,3 +45,10 @@
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/Thirupathi-702/daily_dsa/tree/master/0263-ugly-number) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/Thirupathi-702/daily_dsa/tree/master/1293-three-consecutive-odds) |
+<!---LeetCode Topics End-->
