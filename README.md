@@ -92,6 +92,7 @@
 |  |
 | ------- |
 | [1720-crawler-log-folder](https://github.com/Thirupathi-702/daily_dsa/tree/master/1720-crawler-log-folder) |
+| [3468-find-the-encrypted-string](https://github.com/Thirupathi-702/daily_dsa/tree/master/3468-find-the-encrypted-string) |
 ## Stack
 |  |
 | ------- |
