@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/alternating-groups-i">3463. Alternating Groups I</a></h2><h3>Easy</h3><hr><p>There is a circle of red and blue tiles. You are given an array of integers <code>colors</code>. The color of tile <code>i</code> is represented by <code>colors[i]</code>:</p>
+<h2><a href="https://leetcode.com/problems/alternating-groups-i">Alternating Groups I</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>There is a circle of red and blue tiles. You are given an array of integers <code>colors</code>. The color of tile <code>i</code> is represented by <code>colors[i]</code>:</p>
 
 <ul>
 	<li><code>colors[i] == 0</code> means that tile <code>i</code> is <strong>red</strong>.</li>
