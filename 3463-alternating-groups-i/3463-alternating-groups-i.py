@@ -3,8 +3,7 @@ class Solution:
         c=0
         l=len(colors)
         for i in range(len(colors)):
-            if colors[i]==0 and colors[(i+1)%l]==1 and colors[(i+2)%l]==0:
+            if colors[(i+1)%l]!=colors[i] and colors[(i+1)%l]!=colors[(i+2)%l]:
                 c+=1
-            elif colors[i]==1 and colors[(i+1)%l]==0 and colors[(i+2)%l]==1:
-                c+=1
+            
         return c
