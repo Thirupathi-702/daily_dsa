@@ -52,6 +52,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Thirupathi-702/daily_dsa/tree/master/1293-three-consecutive-odds) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Thirupathi-702/daily_dsa/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Thirupathi-702/daily_dsa/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/Thirupathi-702/daily_dsa/tree/master/1720-crawler-log-folder) |
 | [3463-alternating-groups-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/3463-alternating-groups-i) |
@@ -102,4 +103,8 @@
 |  |
 | ------- |
 | [3463-alternating-groups-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/3463-alternating-groups-i) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Thirupathi-702/daily_dsa/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
