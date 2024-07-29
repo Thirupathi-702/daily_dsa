@@ -160,4 +160,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Thirupathi-702/daily_dsa/tree/master/1013-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Thirupathi-702/daily_dsa/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
