@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0136-single-number](https://github.com/Thirupathi-702/daily_dsa/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Thirupathi-702/daily_dsa/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Thirupathi-702/daily_dsa/tree/master/0349-intersection-of-two-arrays) |
@@ -179,4 +180,8 @@
 | [0182-duplicate-emails](https://github.com/Thirupathi-702/daily_dsa/tree/master/0182-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/Thirupathi-702/daily_dsa/tree/master/0577-employee-bonus) |
 | [1415-students-and-examinations](https://github.com/Thirupathi-702/daily_dsa/tree/master/1415-students-and-examinations) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Thirupathi-702/daily_dsa/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
