@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/snake-in-matrix">3533. Snake in Matrix</a></h2><h3>Easy</h3><hr><p>There is a snake in an <code>n x n</code> matrix <code>grid</code> and can move in <strong>four possible directions</strong>. Each cell in the <code>grid</code> is identified by the position: <code>grid[i][j] = (i * n) + j</code>.</p>
+<h2><a href="https://leetcode.com/problems/snake-in-matrix">Snake in Matrix</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr><p>There is a snake in an <code>n x n</code> matrix <code>grid</code> and can move in <strong>four possible directions</strong>. Each cell in the <code>grid</code> is identified by the position: <code>grid[i][j] = (i * n) + j</code>.</p>
 
 <p>The snake starts at cell 0 and follows a sequence of commands.</p>
 
