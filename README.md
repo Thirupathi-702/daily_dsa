@@ -150,6 +150,7 @@
 | [2727-number-of-senior-citizens](https://github.com/Thirupathi-702/daily_dsa/tree/master/2727-number-of-senior-citizens) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3468-find-the-encrypted-string](https://github.com/Thirupathi-702/daily_dsa/tree/master/3468-find-the-encrypted-string) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Stack
 |  |
 | ------- |
@@ -158,6 +159,7 @@
 |  |
 | ------- |
 | [3463-alternating-groups-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/3463-alternating-groups-i) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Matrix
 |  |
 | ------- |
