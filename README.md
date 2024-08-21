@@ -221,6 +221,7 @@
 | ------- |
 | [0182-duplicate-emails](https://github.com/Thirupathi-702/daily_dsa/tree/master/0182-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/Thirupathi-702/daily_dsa/tree/master/0577-employee-bonus) |
+| [1390-average-selling-price](https://github.com/Thirupathi-702/daily_dsa/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/Thirupathi-702/daily_dsa/tree/master/1415-students-and-examinations) |
 ## Bit Manipulation
 |  |
