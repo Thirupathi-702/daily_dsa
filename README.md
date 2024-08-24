@@ -55,6 +55,7 @@
 | [0054-spiral-matrix](https://github.com/Thirupathi-702/daily_dsa/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Thirupathi-702/daily_dsa/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Thirupathi-702/daily_dsa/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thirupathi-702/daily_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Thirupathi-702/daily_dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Thirupathi-702/daily_dsa/tree/master/0136-single-number) |
@@ -96,6 +97,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Thirupathi-702/daily_dsa/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Thirupathi-702/daily_dsa/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Thirupathi-702/daily_dsa/tree/master/0349-intersection-of-two-arrays) |
@@ -111,6 +113,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Thirupathi-702/daily_dsa/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Thirupathi-702/daily_dsa/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Thirupathi-702/daily_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
