@@ -54,6 +54,7 @@
 | [0048-rotate-image](https://github.com/Thirupathi-702/daily_dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Thirupathi-702/daily_dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Thirupathi-702/daily_dsa/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Thirupathi-702/daily_dsa/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Thirupathi-702/daily_dsa/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Thirupathi-702/daily_dsa/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -134,6 +135,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Thirupathi-702/daily_dsa/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Thirupathi-702/daily_dsa/tree/master/0409-longest-palindrome) |
 | [0890-lemonade-change](https://github.com/Thirupathi-702/daily_dsa/tree/master/0890-lemonade-change) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Thirupathi-702/daily_dsa/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -217,6 +219,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Thirupathi-702/daily_dsa/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Thirupathi-702/daily_dsa/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thirupathi-702/daily_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Thirupathi-702/daily_dsa/tree/master/0392-is-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/Thirupathi-702/daily_dsa/tree/master/0650-2-keys-keyboard) |
