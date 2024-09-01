@@ -80,6 +80,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Thirupathi-702/daily_dsa/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/Thirupathi-702/daily_dsa/tree/master/1720-crawler-log-folder) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Thirupathi-702/daily_dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Thirupathi-702/daily_dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2502-sort-the-people](https://github.com/Thirupathi-702/daily_dsa/tree/master/2502-sort-the-people) |
@@ -156,6 +157,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Thirupathi-702/daily_dsa/tree/master/0054-spiral-matrix) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Thirupathi-702/daily_dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Thirupathi-702/daily_dsa/tree/master/2299-merge-nodes-in-between-zeros) |
 ## String
@@ -189,6 +191,7 @@
 | [0054-spiral-matrix](https://github.com/Thirupathi-702/daily_dsa/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Thirupathi-702/daily_dsa/tree/master/0073-set-matrix-zeroes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Thirupathi-702/daily_dsa/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [2132-convert-1d-array-into-2d-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Divide and Conquer
 |  |
 | ------- |
