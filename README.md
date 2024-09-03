@@ -97,6 +97,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Thirupathi-702/daily_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/Thirupathi-702/daily_dsa/tree/master/0409-longest-palindrome) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Thirupathi-702/daily_dsa/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Thirupathi-702/daily_dsa/tree/master/2502-sort-the-people) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -171,6 +172,7 @@
 | [0392-is-subsequence](https://github.com/Thirupathi-702/daily_dsa/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Thirupathi-702/daily_dsa/tree/master/0409-longest-palindrome) |
 | [1720-crawler-log-folder](https://github.com/Thirupathi-702/daily_dsa/tree/master/1720-crawler-log-folder) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Thirupathi-702/daily_dsa/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Thirupathi-702/daily_dsa/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Thirupathi-702/daily_dsa/tree/master/2502-sort-the-people) |
@@ -226,6 +228,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Thirupathi-702/daily_dsa/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0948-sort-an-array) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Thirupathi-702/daily_dsa/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
