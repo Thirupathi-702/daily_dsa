@@ -239,6 +239,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Thirupathi-702/daily_dsa/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Thirupathi-702/daily_dsa/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0189-rotate-array) |
 | [0650-2-keys-keyboard](https://github.com/Thirupathi-702/daily_dsa/tree/master/0650-2-keys-keyboard) |
