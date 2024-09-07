@@ -98,6 +98,7 @@
 | [0169-majority-element](https://github.com/Thirupathi-702/daily_dsa/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Thirupathi-702/daily_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Thirupathi-702/daily_dsa/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Thirupathi-702/daily_dsa/tree/master/0409-longest-palindrome) |
 | [0906-walking-robot-simulation](https://github.com/Thirupathi-702/daily_dsa/tree/master/0906-walking-robot-simulation) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Thirupathi-702/daily_dsa/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
@@ -174,6 +175,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Thirupathi-702/daily_dsa/tree/master/0151-reverse-words-in-a-string) |
+| [0383-ransom-note](https://github.com/Thirupathi-702/daily_dsa/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Thirupathi-702/daily_dsa/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Thirupathi-702/daily_dsa/tree/master/0409-longest-palindrome) |
 | [1720-crawler-log-folder](https://github.com/Thirupathi-702/daily_dsa/tree/master/1720-crawler-log-folder) |
@@ -232,6 +234,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Thirupathi-702/daily_dsa/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Thirupathi-702/daily_dsa/tree/master/0383-ransom-note) |
 | [0948-sort-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0948-sort-an-array) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Thirupathi-702/daily_dsa/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/2163-kth-distinct-string-in-an-array) |
