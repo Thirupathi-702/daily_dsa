@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0048-rotate-image](https://github.com/Thirupathi-702/daily_dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Thirupathi-702/daily_dsa/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Thirupathi-702/daily_dsa/tree/master/0054-spiral-matrix) |
@@ -122,6 +123,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Thirupathi-702/daily_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/Thirupathi-702/daily_dsa/tree/master/0792-binary-search) |
