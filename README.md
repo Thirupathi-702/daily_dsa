@@ -250,6 +250,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Thirupathi-702/daily_dsa/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/Thirupathi-702/daily_dsa/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/Thirupathi-702/daily_dsa/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Thirupathi-702/daily_dsa/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Thirupathi-702/daily_dsa/tree/master/0367-valid-perfect-square) |
@@ -269,6 +270,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Thirupathi-702/daily_dsa/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/Thirupathi-702/daily_dsa/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
