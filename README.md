@@ -71,6 +71,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Thirupathi-702/daily_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/Thirupathi-702/daily_dsa/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Thirupathi-702/daily_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Thirupathi-702/daily_dsa/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/Thirupathi-702/daily_dsa/tree/master/0792-binary-search) |
@@ -103,6 +104,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Thirupathi-702/daily_dsa/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Thirupathi-702/daily_dsa/tree/master/0409-longest-palindrome) |
+| [0560-subarray-sum-equals-k](https://github.com/Thirupathi-702/daily_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0906-walking-robot-simulation](https://github.com/Thirupathi-702/daily_dsa/tree/master/0906-walking-robot-simulation) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Thirupathi-702/daily_dsa/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Thirupathi-702/daily_dsa/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
@@ -307,5 +309,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Thirupathi-702/daily_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Thirupathi-702/daily_dsa/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 <!---LeetCode Topics End-->
