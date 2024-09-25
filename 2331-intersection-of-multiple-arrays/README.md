@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/intersection-of-multiple-arrays">2331. Intersection of Multiple Arrays</a></h2><h3>Easy</h3><hr>Given a 2D integer array <code>nums</code> where <code>nums[i]</code> is a non-empty array of <strong>distinct</strong> positive integers, return <em>the list of integers that are present in <strong>each array</strong> of</em> <code>nums</code><em> sorted in <strong>ascending order</strong></em>.
+<h2><a href="https://leetcode.com/problems/intersection-of-multiple-arrays">Intersection of Multiple Arrays</a></h2> <img src='https://img.shields.io/badge/Difficulty-Easy-brightgreen' alt='Difficulty: Easy' /><hr>Given a 2D integer array <code>nums</code> where <code>nums[i]</code> is a non-empty array of <strong>distinct</strong> positive integers, return <em>the list of integers that are present in <strong>each array</strong> of</em> <code>nums</code><em> sorted in <strong>ascending order</strong></em>.
 <p>&nbsp;</p>
 <p><strong class="example">Example 1:</strong></p>
 
