@@ -86,6 +86,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/Thirupathi-702/daily_dsa/tree/master/1435-xor-queries-of-a-subarray) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Thirupathi-702/daily_dsa/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Thirupathi-702/daily_dsa/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Thirupathi-702/daily_dsa/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1720-crawler-log-folder](https://github.com/Thirupathi-702/daily_dsa/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Thirupathi-702/daily_dsa/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Thirupathi-702/daily_dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -116,6 +117,7 @@
 | [0906-walking-robot-simulation](https://github.com/Thirupathi-702/daily_dsa/tree/master/0906-walking-robot-simulation) |
 | [1256-rank-transform-of-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Thirupathi-702/daily_dsa/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Thirupathi-702/daily_dsa/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Thirupathi-702/daily_dsa/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Thirupathi-702/daily_dsa/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -268,6 +270,7 @@
 | [0169-majority-element](https://github.com/Thirupathi-702/daily_dsa/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Thirupathi-702/daily_dsa/tree/master/0383-ransom-note) |
 | [0948-sort-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0948-sort-an-array) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Thirupathi-702/daily_dsa/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Thirupathi-702/daily_dsa/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/Thirupathi-702/daily_dsa/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/2163-kth-distinct-string-in-an-array) |
