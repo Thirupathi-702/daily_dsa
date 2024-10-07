@@ -205,6 +205,7 @@
 | [2155-find-missing-observations](https://github.com/Thirupathi-702/daily_dsa/tree/master/2155-find-missing-observations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Thirupathi-702/daily_dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Thirupathi-702/daily_dsa/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Thirupathi-702/daily_dsa/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## String
 |  |
 | ------- |
@@ -224,6 +225,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Thirupathi-702/daily_dsa/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Thirupathi-702/daily_dsa/tree/master/2727-number-of-senior-citizens) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Thirupathi-702/daily_dsa/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Thirupathi-702/daily_dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3468-find-the-encrypted-string](https://github.com/Thirupathi-702/daily_dsa/tree/master/3468-find-the-encrypted-string) |
@@ -234,6 +236,7 @@
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Thirupathi-702/daily_dsa/tree/master/0780-max-chunks-to-make-sorted) |
 | [1720-crawler-log-folder](https://github.com/Thirupathi-702/daily_dsa/tree/master/1720-crawler-log-folder) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/Thirupathi-702/daily_dsa/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Sliding Window
 |  |
 | ------- |
