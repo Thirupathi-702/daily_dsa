@@ -67,6 +67,7 @@
 | [0164-maximum-gap](https://github.com/Thirupathi-702/daily_dsa/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Thirupathi-702/daily_dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0189-rotate-array) |
+| [0219-contains-duplicate-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Thirupathi-702/daily_dsa/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Thirupathi-702/daily_dsa/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Thirupathi-702/daily_dsa/tree/master/0349-intersection-of-two-arrays) |
@@ -111,6 +112,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Thirupathi-702/daily_dsa/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Thirupathi-702/daily_dsa/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Thirupathi-702/daily_dsa/tree/master/0169-majority-element) |
+| [0219-contains-duplicate-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0219-contains-duplicate-ii) |
 | [0290-word-pattern](https://github.com/Thirupathi-702/daily_dsa/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Thirupathi-702/daily_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -253,6 +255,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0219-contains-duplicate-ii) |
 | [3463-alternating-groups-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/3463-alternating-groups-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Matrix
