@@ -192,6 +192,7 @@
 | [0045-jump-game-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Thirupathi-702/daily_dsa/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Thirupathi-702/daily_dsa/tree/master/0409-longest-palindrome) |
+| [0670-maximum-swap](https://github.com/Thirupathi-702/daily_dsa/tree/master/0670-maximum-swap) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Thirupathi-702/daily_dsa/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/Thirupathi-702/daily_dsa/tree/master/0890-lemonade-change) |
@@ -313,6 +314,7 @@
 | [0367-valid-perfect-square](https://github.com/Thirupathi-702/daily_dsa/tree/master/0367-valid-perfect-square) |
 | [0539-minimum-time-difference](https://github.com/Thirupathi-702/daily_dsa/tree/master/0539-minimum-time-difference) |
 | [0650-2-keys-keyboard](https://github.com/Thirupathi-702/daily_dsa/tree/master/0650-2-keys-keyboard) |
+| [0670-maximum-swap](https://github.com/Thirupathi-702/daily_dsa/tree/master/0670-maximum-swap) |
 | [0910-nth-magical-number](https://github.com/Thirupathi-702/daily_dsa/tree/master/0910-nth-magical-number) |
 | [1013-fibonacci-number](https://github.com/Thirupathi-702/daily_dsa/tree/master/1013-fibonacci-number) |
 | [2155-find-missing-observations](https://github.com/Thirupathi-702/daily_dsa/tree/master/2155-find-missing-observations) |
