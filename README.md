@@ -273,6 +273,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/Thirupathi-702/daily_dsa/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Thirupathi-702/daily_dsa/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Thirupathi-702/daily_dsa/tree/master/0190-reverse-bits) |
 | [0948-sort-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -350,6 +351,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Thirupathi-702/daily_dsa/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Thirupathi-702/daily_dsa/tree/master/0190-reverse-bits) |
 | [0476-number-complement](https://github.com/Thirupathi-702/daily_dsa/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Thirupathi-702/daily_dsa/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Thirupathi-702/daily_dsa/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
