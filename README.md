@@ -187,6 +187,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Thirupathi-702/daily_dsa/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Thirupathi-702/daily_dsa/tree/master/3469-maximum-height-of-a-triangle) |
 ## Greedy
 |  |
@@ -201,6 +202,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Thirupathi-702/daily_dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Thirupathi-702/daily_dsa/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Thirupathi-702/daily_dsa/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Thirupathi-702/daily_dsa/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3195-separate-black-and-white-balls](https://github.com/Thirupathi-702/daily_dsa/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Linked List
@@ -238,6 +240,7 @@
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Thirupathi-702/daily_dsa/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Thirupathi-702/daily_dsa/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/Thirupathi-702/daily_dsa/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2502-sort-the-people](https://github.com/Thirupathi-702/daily_dsa/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Thirupathi-702/daily_dsa/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Thirupathi-702/daily_dsa/tree/master/2800-minimum-string-length-after-removing-substrings) |
