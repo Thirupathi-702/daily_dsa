@@ -189,6 +189,7 @@
 | ------- |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/Thirupathi-702/daily_dsa/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Thirupathi-702/daily_dsa/tree/master/3469-maximum-height-of-a-triangle) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Greedy
 |  |
 | ------- |
@@ -326,6 +327,7 @@
 | [0910-nth-magical-number](https://github.com/Thirupathi-702/daily_dsa/tree/master/0910-nth-magical-number) |
 | [1013-fibonacci-number](https://github.com/Thirupathi-702/daily_dsa/tree/master/1013-fibonacci-number) |
 | [2155-find-missing-observations](https://github.com/Thirupathi-702/daily_dsa/tree/master/2155-find-missing-observations) |
+| [3626-smallest-divisible-digit-product-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/3626-smallest-divisible-digit-product-i) |
 ## Dynamic Programming
 |  |
 | ------- |
