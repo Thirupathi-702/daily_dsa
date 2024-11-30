@@ -209,6 +209,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Thirupathi-702/daily_dsa/tree/master/0206-reverse-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Thirupathi-702/daily_dsa/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
@@ -342,6 +343,7 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Thirupathi-702/daily_dsa/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/Thirupathi-702/daily_dsa/tree/master/0206-reverse-linked-list) |
 | [1013-fibonacci-number](https://github.com/Thirupathi-702/daily_dsa/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
