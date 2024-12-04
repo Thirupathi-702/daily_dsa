@@ -152,6 +152,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/Thirupathi-702/daily_dsa/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Thirupathi-702/daily_dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Thirupathi-702/daily_dsa/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Thirupathi-702/daily_dsa/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/Thirupathi-702/daily_dsa/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
 |  |
@@ -252,6 +253,7 @@
 | [2502-sort-the-people](https://github.com/Thirupathi-702/daily_dsa/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Thirupathi-702/daily_dsa/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Thirupathi-702/daily_dsa/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Thirupathi-702/daily_dsa/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/Thirupathi-702/daily_dsa/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Thirupathi-702/daily_dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
