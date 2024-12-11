@@ -106,6 +106,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Thirupathi-702/daily_dsa/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2727-number-of-senior-citizens](https://github.com/Thirupathi-702/daily_dsa/tree/master/2727-number-of-senior-citizens) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Thirupathi-702/daily_dsa/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Thirupathi-702/daily_dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3427-special-array-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/3427-special-array-ii) |
 | [3463-alternating-groups-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/3463-alternating-groups-i) |
@@ -170,6 +171,7 @@
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Thirupathi-702/daily_dsa/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Thirupathi-702/daily_dsa/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Thirupathi-702/daily_dsa/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/3427-special-array-ii) |
 ## Sorting
 |  |
@@ -193,6 +195,7 @@
 | [2502-sort-the-people](https://github.com/Thirupathi-702/daily_dsa/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Thirupathi-702/daily_dsa/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Thirupathi-702/daily_dsa/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Enumeration
 |  |
@@ -280,6 +283,7 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0219-contains-duplicate-ii) |
+| [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Thirupathi-702/daily_dsa/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3463-alternating-groups-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/3463-alternating-groups-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Matrix
