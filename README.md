@@ -105,6 +105,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Thirupathi-702/daily_dsa/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Thirupathi-702/daily_dsa/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Thirupathi-702/daily_dsa/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2727-number-of-senior-citizens](https://github.com/Thirupathi-702/daily_dsa/tree/master/2727-number-of-senior-citizens) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Thirupathi-702/daily_dsa/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Thirupathi-702/daily_dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -237,6 +238,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/Thirupathi-702/daily_dsa/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Thirupathi-702/daily_dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Thirupathi-702/daily_dsa/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Thirupathi-702/daily_dsa/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Thirupathi-702/daily_dsa/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## String
 |  |
@@ -305,6 +307,7 @@
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0948-sort-an-array) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/Thirupathi-702/daily_dsa/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Merge Sort
 |  |
 | ------- |
