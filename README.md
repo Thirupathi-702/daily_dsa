@@ -82,6 +82,7 @@
 | [0890-lemonade-change](https://github.com/Thirupathi-702/daily_dsa/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/Thirupathi-702/daily_dsa/tree/master/0906-walking-robot-simulation) |
 | [0948-sort-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0948-sort-an-array) |
+| [0965-unique-email-addresses](https://github.com/Thirupathi-702/daily_dsa/tree/master/0965-unique-email-addresses) |
 | [1256-rank-transform-of-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Thirupathi-702/daily_dsa/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Thirupathi-702/daily_dsa/tree/master/1333-sort-the-jumbled-numbers) |
@@ -129,6 +130,7 @@
 | [0409-longest-palindrome](https://github.com/Thirupathi-702/daily_dsa/tree/master/0409-longest-palindrome) |
 | [0560-subarray-sum-equals-k](https://github.com/Thirupathi-702/daily_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0906-walking-robot-simulation](https://github.com/Thirupathi-702/daily_dsa/tree/master/0906-walking-robot-simulation) |
+| [0965-unique-email-addresses](https://github.com/Thirupathi-702/daily_dsa/tree/master/0965-unique-email-addresses) |
 | [1256-rank-transform-of-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Thirupathi-702/daily_dsa/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Thirupathi-702/daily_dsa/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -260,6 +262,7 @@
 | [0539-minimum-time-difference](https://github.com/Thirupathi-702/daily_dsa/tree/master/0539-minimum-time-difference) |
 | [0742-to-lower-case](https://github.com/Thirupathi-702/daily_dsa/tree/master/0742-to-lower-case) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Thirupathi-702/daily_dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0965-unique-email-addresses](https://github.com/Thirupathi-702/daily_dsa/tree/master/0965-unique-email-addresses) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Thirupathi-702/daily_dsa/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Thirupathi-702/daily_dsa/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1720-crawler-log-folder](https://github.com/Thirupathi-702/daily_dsa/tree/master/1720-crawler-log-folder) |
