@@ -73,6 +73,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Thirupathi-702/daily_dsa/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Thirupathi-702/daily_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Thirupathi-702/daily_dsa/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/Thirupathi-702/daily_dsa/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Thirupathi-702/daily_dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -128,6 +129,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Thirupathi-702/daily_dsa/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Thirupathi-702/daily_dsa/tree/master/0409-longest-palindrome) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Thirupathi-702/daily_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0906-walking-robot-simulation](https://github.com/Thirupathi-702/daily_dsa/tree/master/0906-walking-robot-simulation) |
 | [0965-unique-email-addresses](https://github.com/Thirupathi-702/daily_dsa/tree/master/0965-unique-email-addresses) |
