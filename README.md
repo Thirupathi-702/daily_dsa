@@ -262,6 +262,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Thirupathi-702/daily_dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/Thirupathi-702/daily_dsa/tree/master/0008-string-to-integer-atoi) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thirupathi-702/daily_dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Thirupathi-702/daily_dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/Thirupathi-702/daily_dsa/tree/master/0290-word-pattern) |
