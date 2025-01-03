@@ -106,6 +106,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/Thirupathi-702/daily_dsa/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Thirupathi-702/daily_dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Thirupathi-702/daily_dsa/tree/master/2331-intersection-of-multiple-arrays) |
+| [2358-number-of-ways-to-split-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/2358-number-of-ways-to-split-array) |
 | [2502-sort-the-people](https://github.com/Thirupathi-702/daily_dsa/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Thirupathi-702/daily_dsa/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Thirupathi-702/daily_dsa/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -451,6 +452,7 @@
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Thirupathi-702/daily_dsa/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Thirupathi-702/daily_dsa/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Thirupathi-702/daily_dsa/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2358-number-of-ways-to-split-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Thirupathi-702/daily_dsa/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/3427-special-array-ii) |
 ## Brainteaser
