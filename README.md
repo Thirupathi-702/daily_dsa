@@ -184,6 +184,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Thirupathi-702/daily_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Thirupathi-702/daily_dsa/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Thirupathi-702/daily_dsa/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/Thirupathi-702/daily_dsa/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/Thirupathi-702/daily_dsa/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -482,4 +483,5 @@
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Thirupathi-702/daily_dsa/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Thirupathi-702/daily_dsa/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
