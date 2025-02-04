@@ -101,6 +101,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Thirupathi-702/daily_dsa/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Thirupathi-702/daily_dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1923-sentence-similarity-iii](https://github.com/Thirupathi-702/daily_dsa/tree/master/1923-sentence-similarity-iii) |
+| [1927-maximum-ascending-subarray-sum](https://github.com/Thirupathi-702/daily_dsa/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Thirupathi-702/daily_dsa/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Thirupathi-702/daily_dsa/tree/master/2155-find-missing-observations) |
