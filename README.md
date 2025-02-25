@@ -97,6 +97,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Thirupathi-702/daily_dsa/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Thirupathi-702/daily_dsa/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Thirupathi-702/daily_dsa/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Thirupathi-702/daily_dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1720-crawler-log-folder](https://github.com/Thirupathi-702/daily_dsa/tree/master/1720-crawler-log-folder) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Thirupathi-702/daily_dsa/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Thirupathi-702/daily_dsa/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -415,6 +416,7 @@
 | [0670-maximum-swap](https://github.com/Thirupathi-702/daily_dsa/tree/master/0670-maximum-swap) |
 | [0910-nth-magical-number](https://github.com/Thirupathi-702/daily_dsa/tree/master/0910-nth-magical-number) |
 | [1013-fibonacci-number](https://github.com/Thirupathi-702/daily_dsa/tree/master/1013-fibonacci-number) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Thirupathi-702/daily_dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2155-find-missing-observations](https://github.com/Thirupathi-702/daily_dsa/tree/master/2155-find-missing-observations) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/3626-smallest-divisible-digit-product-i) |
@@ -429,6 +431,7 @@
 | [0650-2-keys-keyboard](https://github.com/Thirupathi-702/daily_dsa/tree/master/0650-2-keys-keyboard) |
 | [1013-fibonacci-number](https://github.com/Thirupathi-702/daily_dsa/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/Thirupathi-702/daily_dsa/tree/master/1063-best-sightseeing-pair) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Thirupathi-702/daily_dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -477,6 +480,7 @@
 | [1435-xor-queries-of-a-subarray](https://github.com/Thirupathi-702/daily_dsa/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Thirupathi-702/daily_dsa/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Thirupathi-702/daily_dsa/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Thirupathi-702/daily_dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Thirupathi-702/daily_dsa/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2358-number-of-ways-to-split-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Thirupathi-702/daily_dsa/tree/master/2691-count-vowel-strings-in-ranges) |
