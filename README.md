@@ -117,6 +117,7 @@
 | [2358-number-of-ways-to-split-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/2358-number-of-ways-to-split-array) |
 | [2502-sort-the-people](https://github.com/Thirupathi-702/daily_dsa/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Thirupathi-702/daily_dsa/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2551-apply-operations-to-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Thirupathi-702/daily_dsa/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Thirupathi-702/daily_dsa/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -188,6 +189,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Thirupathi-702/daily_dsa/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2232-adding-spaces-to-a-string](https://github.com/Thirupathi-702/daily_dsa/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Thirupathi-702/daily_dsa/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2551-apply-operations-to-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Thirupathi-702/daily_dsa/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Thirupathi-702/daily_dsa/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/Thirupathi-702/daily_dsa/tree/master/3195-separate-black-and-white-balls) |
@@ -278,6 +280,7 @@
 | [2232-adding-spaces-to-a-string](https://github.com/Thirupathi-702/daily_dsa/tree/master/2232-adding-spaces-to-a-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Thirupathi-702/daily_dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Thirupathi-702/daily_dsa/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2551-apply-operations-to-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/2551-apply-operations-to-an-array) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Thirupathi-702/daily_dsa/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Thirupathi-702/daily_dsa/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Thirupathi-702/daily_dsa/tree/master/2800-minimum-string-length-after-removing-substrings) |
