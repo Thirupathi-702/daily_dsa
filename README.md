@@ -120,6 +120,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Thirupathi-702/daily_dsa/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2551-apply-operations-to-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Thirupathi-702/daily_dsa/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Thirupathi-702/daily_dsa/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Thirupathi-702/daily_dsa/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Thirupathi-702/daily_dsa/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -212,6 +213,7 @@
 | [0910-nth-magical-number](https://github.com/Thirupathi-702/daily_dsa/tree/master/0910-nth-magical-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Thirupathi-702/daily_dsa/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Thirupathi-702/daily_dsa/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Thirupathi-702/daily_dsa/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Thirupathi-702/daily_dsa/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/3427-special-array-ii) |
@@ -411,6 +413,7 @@
 | [2163-kth-distinct-string-in-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Thirupathi-702/daily_dsa/tree/master/2300-construct-string-with-repeat-limit) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Thirupathi-702/daily_dsa/tree/master/2331-intersection-of-multiple-arrays) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Thirupathi-702/daily_dsa/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Thirupathi-702/daily_dsa/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Math
