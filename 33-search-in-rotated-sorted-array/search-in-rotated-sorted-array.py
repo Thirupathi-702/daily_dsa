@@ -6,6 +6,33 @@ class Solution:
             mid=(low+high)//2
             if nums[mid]==t:
                 return mid
+            elif nums[low]<=nums[mid]:
+                if nums[low]<=t and t<=nums[mid]:
+                    high=mid-1
+                else:
+                    low=mid+1
+            else:
+                if nums[mid]<=t and t<=nums[high]:
+                    low=mid+1
+                else:
+                    high=mid-1
+            
+
+        return -1
+
+
+
+
+
+
+
+        '''
+        low=0
+        high=len(nums)-1
+        while low<=high:
+            mid=(low+high)//2
+            if nums[mid]==t:
+                return mid
             elif nums[mid]>=nums[0]:
                 if t>nums[mid] or t<nums[0]:
                     low=mid+1
@@ -21,7 +48,7 @@ class Solution:
             
 
     
-        '''
+        
         l=0
         r=len(nums)-1
         while l<=r:
