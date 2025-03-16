@@ -108,6 +108,7 @@
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Thirupathi-702/daily_dsa/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Thirupathi-702/daily_dsa/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Thirupathi-702/daily_dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1646-kth-missing-positive-number](https://github.com/Thirupathi-702/daily_dsa/tree/master/1646-kth-missing-positive-number) |
 | [1720-crawler-log-folder](https://github.com/Thirupathi-702/daily_dsa/tree/master/1720-crawler-log-folder) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Thirupathi-702/daily_dsa/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Thirupathi-702/daily_dsa/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -226,6 +227,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Thirupathi-702/daily_dsa/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Thirupathi-702/daily_dsa/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Thirupathi-702/daily_dsa/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/Thirupathi-702/daily_dsa/tree/master/1646-kth-missing-positive-number) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Thirupathi-702/daily_dsa/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Thirupathi-702/daily_dsa/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Thirupathi-702/daily_dsa/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
