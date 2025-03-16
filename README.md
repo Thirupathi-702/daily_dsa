@@ -93,6 +93,7 @@
 | [0948-sort-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/Thirupathi-702/daily_dsa/tree/master/0952-word-subsets) |
 | [0965-unique-email-addresses](https://github.com/Thirupathi-702/daily_dsa/tree/master/0965-unique-email-addresses) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Thirupathi-702/daily_dsa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/Thirupathi-702/daily_dsa/tree/master/1063-best-sightseeing-pair) |
 | [1256-rank-transform-of-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/Thirupathi-702/daily_dsa/tree/master/1293-three-consecutive-odds) |
@@ -221,6 +222,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Thirupathi-702/daily_dsa/tree/master/0907-koko-eating-bananas) |
 | [0910-nth-magical-number](https://github.com/Thirupathi-702/daily_dsa/tree/master/0910-nth-magical-number) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Thirupathi-702/daily_dsa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Thirupathi-702/daily_dsa/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Thirupathi-702/daily_dsa/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Thirupathi-702/daily_dsa/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
