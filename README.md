@@ -77,6 +77,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Thirupathi-702/daily_dsa/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Thirupathi-702/daily_dsa/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/Thirupathi-702/daily_dsa/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Thirupathi-702/daily_dsa/tree/master/0485-max-consecutive-ones) |
 | [0539-minimum-time-difference](https://github.com/Thirupathi-702/daily_dsa/tree/master/0539-minimum-time-difference) |
@@ -219,6 +220,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Thirupathi-702/daily_dsa/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Thirupathi-702/daily_dsa/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/Thirupathi-702/daily_dsa/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/Thirupathi-702/daily_dsa/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Thirupathi-702/daily_dsa/tree/master/0792-binary-search) |
@@ -276,6 +278,7 @@
 | [0045-jump-game-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Thirupathi-702/daily_dsa/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Thirupathi-702/daily_dsa/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/Thirupathi-702/daily_dsa/tree/master/0410-split-array-largest-sum) |
 | [0670-maximum-swap](https://github.com/Thirupathi-702/daily_dsa/tree/master/0670-maximum-swap) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Thirupathi-702/daily_dsa/tree/master/0780-max-chunks-to-make-sorted) |
@@ -466,6 +469,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thirupathi-702/daily_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Thirupathi-702/daily_dsa/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Thirupathi-702/daily_dsa/tree/master/0392-is-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/Thirupathi-702/daily_dsa/tree/master/0410-split-array-largest-sum) |
 | [0650-2-keys-keyboard](https://github.com/Thirupathi-702/daily_dsa/tree/master/0650-2-keys-keyboard) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Thirupathi-702/daily_dsa/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1013-fibonacci-number](https://github.com/Thirupathi-702/daily_dsa/tree/master/1013-fibonacci-number) |
@@ -517,6 +521,7 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Thirupathi-702/daily_dsa/tree/master/0303-range-sum-query-immutable) |
+| [0410-split-array-largest-sum](https://github.com/Thirupathi-702/daily_dsa/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Thirupathi-702/daily_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Thirupathi-702/daily_dsa/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Thirupathi-702/daily_dsa/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
