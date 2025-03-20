@@ -50,6 +50,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Thirupathi-702/daily_dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Thirupathi-702/daily_dsa/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0033-search-in-rotated-sorted-array) |
@@ -212,6 +213,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Thirupathi-702/daily_dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Thirupathi-702/daily_dsa/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -396,6 +398,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Thirupathi-702/daily_dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Thirupathi-702/daily_dsa/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Thirupathi-702/daily_dsa/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Thirupathi-702/daily_dsa/tree/master/0190-reverse-bits) |
