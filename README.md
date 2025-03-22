@@ -458,6 +458,7 @@
 | [0050-powx-n](https://github.com/Thirupathi-702/daily_dsa/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Thirupathi-702/daily_dsa/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Thirupathi-702/daily_dsa/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Thirupathi-702/daily_dsa/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Thirupathi-702/daily_dsa/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0441-arranging-coins](https://github.com/Thirupathi-702/daily_dsa/tree/master/0441-arranging-coins) |
@@ -491,6 +492,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/Thirupathi-702/daily_dsa/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Thirupathi-702/daily_dsa/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Thirupathi-702/daily_dsa/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/Thirupathi-702/daily_dsa/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
@@ -509,6 +511,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Thirupathi-702/daily_dsa/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Thirupathi-702/daily_dsa/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/Thirupathi-702/daily_dsa/tree/master/0231-power-of-two) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Thirupathi-702/daily_dsa/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0476-number-complement](https://github.com/Thirupathi-702/daily_dsa/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Thirupathi-702/daily_dsa/tree/master/1435-xor-queries-of-a-subarray) |
