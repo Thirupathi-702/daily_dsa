@@ -147,6 +147,7 @@
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Thirupathi-702/daily_dsa/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Thirupathi-702/daily_dsa/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3427-special-array-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/3427-special-array-ii) |
+| [3430-count-days-without-meetings](https://github.com/Thirupathi-702/daily_dsa/tree/master/3430-count-days-without-meetings) |
 | [3463-alternating-groups-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/3463-alternating-groups-i) |
 | [3469-maximum-height-of-a-triangle](https://github.com/Thirupathi-702/daily_dsa/tree/master/3469-maximum-height-of-a-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -273,6 +274,7 @@
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Thirupathi-702/daily_dsa/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Thirupathi-702/daily_dsa/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3430-count-days-without-meetings](https://github.com/Thirupathi-702/daily_dsa/tree/master/3430-count-days-without-meetings) |
 ## Enumeration
 |  |
 | ------- |
