@@ -98,6 +98,7 @@
 | [0948-sort-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/Thirupathi-702/daily_dsa/tree/master/0952-word-subsets) |
 | [0965-unique-email-addresses](https://github.com/Thirupathi-702/daily_dsa/tree/master/0965-unique-email-addresses) |
+| [1036-rotting-oranges](https://github.com/Thirupathi-702/daily_dsa/tree/master/1036-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Thirupathi-702/daily_dsa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/Thirupathi-702/daily_dsa/tree/master/1063-best-sightseeing-pair) |
 | [1256-rank-transform-of-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/1256-rank-transform-of-an-array) |
@@ -404,6 +405,7 @@
 | [0054-spiral-matrix](https://github.com/Thirupathi-702/daily_dsa/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Thirupathi-702/daily_dsa/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0240-search-a-2d-matrix-ii) |
+| [1036-rotting-oranges](https://github.com/Thirupathi-702/daily_dsa/tree/master/1036-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Thirupathi-702/daily_dsa/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/2047-find-a-peak-element-ii) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -609,4 +611,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Thirupathi-702/daily_dsa/tree/master/0239-sliding-window-maximum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/Thirupathi-702/daily_dsa/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
