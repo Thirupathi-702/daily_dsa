@@ -74,6 +74,7 @@
 | [0169-majority-element](https://github.com/Thirupathi-702/daily_dsa/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Thirupathi-702/daily_dsa/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/Thirupathi-702/daily_dsa/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Thirupathi-702/daily_dsa/tree/master/0283-move-zeroes) |
@@ -391,6 +392,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Thirupathi-702/daily_dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Thirupathi-702/daily_dsa/tree/master/0239-sliding-window-maximum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Thirupathi-702/daily_dsa/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Thirupathi-702/daily_dsa/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3463-alternating-groups-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/3463-alternating-groups-i) |
@@ -417,6 +419,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Thirupathi-702/daily_dsa/tree/master/0239-sliding-window-maximum) |
 | [0948-sort-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0948-sort-an-array) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Thirupathi-702/daily_dsa/tree/master/2300-construct-string-with-repeat-limit) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Thirupathi-702/daily_dsa/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -598,4 +601,12 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Thirupathi-702/daily_dsa/tree/master/0078-subsets) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Thirupathi-702/daily_dsa/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Thirupathi-702/daily_dsa/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
