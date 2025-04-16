@@ -138,6 +138,7 @@
 | [2551-apply-operations-to-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Thirupathi-702/daily_dsa/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Thirupathi-702/daily_dsa/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Thirupathi-702/daily_dsa/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Thirupathi-702/daily_dsa/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Thirupathi-702/daily_dsa/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -186,6 +187,7 @@
 | [2331-intersection-of-multiple-arrays](https://github.com/Thirupathi-702/daily_dsa/tree/master/2331-intersection-of-multiple-arrays) |
 | [2502-sort-the-people](https://github.com/Thirupathi-702/daily_dsa/tree/master/2502-sort-the-people) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Thirupathi-702/daily_dsa/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Thirupathi-702/daily_dsa/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Thirupathi-702/daily_dsa/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
@@ -395,6 +397,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Thirupathi-702/daily_dsa/tree/master/0239-sliding-window-maximum) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Thirupathi-702/daily_dsa/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/Thirupathi-702/daily_dsa/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Thirupathi-702/daily_dsa/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3463-alternating-groups-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/3463-alternating-groups-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
