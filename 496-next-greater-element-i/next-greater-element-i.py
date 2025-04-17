@@ -1,15 +1,12 @@
 class Solution:
     def nextGreaterElement(self, nums1: List[int], nums2: List[int]) -> List[int]:
-        a=[]
-        for i in range(len(nums1)):
-            ma=-1
-            for j in range(len(nums2)-1,-1,-1):
-                if nums1[i]==nums2[j]:
-                    break
-                if nums1[i]<nums2[j]:
-                    ma=nums2[j]
-            if ma!=-1:
-                a.append(ma)
-            else:
-                a.append(-1)
-        return a
+        stack=[]
+        map={}
+        for i in nums2:
+            while stack and i>stack[-1]:
+                new=stack.pop()
+                map[new]=i
+            stack.append(i)
+        for i in stack:
+            map[i]=-1
+        return [map[x] for x in nums1]
