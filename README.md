@@ -84,6 +84,7 @@
 | [0410-split-array-largest-sum](https://github.com/Thirupathi-702/daily_dsa/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Thirupathi-702/daily_dsa/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/Thirupathi-702/daily_dsa/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Thirupathi-702/daily_dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -169,6 +170,7 @@
 | [0383-ransom-note](https://github.com/Thirupathi-702/daily_dsa/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/Thirupathi-702/daily_dsa/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Thirupathi-702/daily_dsa/tree/master/0560-subarray-sum-equals-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Thirupathi-702/daily_dsa/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/Thirupathi-702/daily_dsa/tree/master/0906-walking-robot-simulation) |
@@ -382,6 +384,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Thirupathi-702/daily_dsa/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Thirupathi-702/daily_dsa/tree/master/0155-min-stack) |
+| [0496-next-greater-element-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/0496-next-greater-element-i) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Thirupathi-702/daily_dsa/tree/master/0780-max-chunks-to-make-sorted) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Thirupathi-702/daily_dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -541,6 +544,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/0496-next-greater-element-i) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Thirupathi-702/daily_dsa/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Thirupathi-702/daily_dsa/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
