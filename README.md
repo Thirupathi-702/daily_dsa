@@ -338,6 +338,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Thirupathi-702/daily_dsa/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Thirupathi-702/daily_dsa/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thirupathi-702/daily_dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/Thirupathi-702/daily_dsa/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/Thirupathi-702/daily_dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0290-word-pattern](https://github.com/Thirupathi-702/daily_dsa/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Thirupathi-702/daily_dsa/tree/master/0345-reverse-vowels-of-a-string) |
