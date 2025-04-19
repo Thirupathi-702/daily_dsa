@@ -144,6 +144,7 @@
 | [2691-count-vowel-strings-in-ranges](https://github.com/Thirupathi-702/daily_dsa/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Thirupathi-702/daily_dsa/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Thirupathi-702/daily_dsa/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Thirupathi-702/daily_dsa/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2727-number-of-senior-citizens](https://github.com/Thirupathi-702/daily_dsa/tree/master/2727-number-of-senior-citizens) |
 | [2792-neighboring-bitwise-xor](https://github.com/Thirupathi-702/daily_dsa/tree/master/2792-neighboring-bitwise-xor) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Thirupathi-702/daily_dsa/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -218,6 +219,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/Thirupathi-702/daily_dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2551-apply-operations-to-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/2551-apply-operations-to-an-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Thirupathi-702/daily_dsa/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Thirupathi-702/daily_dsa/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Thirupathi-702/daily_dsa/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3195-separate-black-and-white-balls](https://github.com/Thirupathi-702/daily_dsa/tree/master/3195-separate-black-and-white-balls) |
 ## Binary Search
@@ -250,6 +252,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/2047-find-a-peak-element-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Thirupathi-702/daily_dsa/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Thirupathi-702/daily_dsa/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Thirupathi-702/daily_dsa/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3427-special-array-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/3427-special-array-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/3790-fruits-into-baskets-ii) |
@@ -278,6 +281,7 @@
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/Thirupathi-702/daily_dsa/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Thirupathi-702/daily_dsa/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Thirupathi-702/daily_dsa/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Thirupathi-702/daily_dsa/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3430-count-days-without-meetings](https://github.com/Thirupathi-702/daily_dsa/tree/master/3430-count-days-without-meetings) |
