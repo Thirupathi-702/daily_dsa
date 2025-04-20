@@ -91,6 +91,7 @@
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Thirupathi-702/daily_dsa/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/Thirupathi-702/daily_dsa/tree/master/0792-binary-search) |
+| [0797-rabbits-in-forest](https://github.com/Thirupathi-702/daily_dsa/tree/master/0797-rabbits-in-forest) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/Thirupathi-702/daily_dsa/tree/master/0890-lemonade-change) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Thirupathi-702/daily_dsa/tree/master/0905-length-of-longest-fibonacci-subsequence) |
@@ -174,6 +175,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Thirupathi-702/daily_dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0797-rabbits-in-forest](https://github.com/Thirupathi-702/daily_dsa/tree/master/0797-rabbits-in-forest) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Thirupathi-702/daily_dsa/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0906-walking-robot-simulation](https://github.com/Thirupathi-702/daily_dsa/tree/master/0906-walking-robot-simulation) |
 | [0952-word-subsets](https://github.com/Thirupathi-702/daily_dsa/tree/master/0952-word-subsets) |
@@ -303,6 +305,7 @@
 | [0670-maximum-swap](https://github.com/Thirupathi-702/daily_dsa/tree/master/0670-maximum-swap) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Thirupathi-702/daily_dsa/tree/master/0780-max-chunks-to-make-sorted) |
+| [0797-rabbits-in-forest](https://github.com/Thirupathi-702/daily_dsa/tree/master/0797-rabbits-in-forest) |
 | [0890-lemonade-change](https://github.com/Thirupathi-702/daily_dsa/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Thirupathi-702/daily_dsa/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Thirupathi-702/daily_dsa/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -487,6 +490,7 @@
 | [0539-minimum-time-difference](https://github.com/Thirupathi-702/daily_dsa/tree/master/0539-minimum-time-difference) |
 | [0650-2-keys-keyboard](https://github.com/Thirupathi-702/daily_dsa/tree/master/0650-2-keys-keyboard) |
 | [0670-maximum-swap](https://github.com/Thirupathi-702/daily_dsa/tree/master/0670-maximum-swap) |
+| [0797-rabbits-in-forest](https://github.com/Thirupathi-702/daily_dsa/tree/master/0797-rabbits-in-forest) |
 | [0910-nth-magical-number](https://github.com/Thirupathi-702/daily_dsa/tree/master/0910-nth-magical-number) |
 | [1013-fibonacci-number](https://github.com/Thirupathi-702/daily_dsa/tree/master/1013-fibonacci-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Thirupathi-702/daily_dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
