@@ -131,6 +131,7 @@
 | [2155-find-missing-observations](https://github.com/Thirupathi-702/daily_dsa/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Thirupathi-702/daily_dsa/tree/master/2232-adding-spaces-to-a-string) |
+| [2249-count-the-hidden-sequences](https://github.com/Thirupathi-702/daily_dsa/tree/master/2249-count-the-hidden-sequences) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Thirupathi-702/daily_dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Thirupathi-702/daily_dsa/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Thirupathi-702/daily_dsa/tree/master/2308-divide-array-into-equal-pairs) |
@@ -572,6 +573,7 @@
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Thirupathi-702/daily_dsa/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Thirupathi-702/daily_dsa/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Thirupathi-702/daily_dsa/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2249-count-the-hidden-sequences](https://github.com/Thirupathi-702/daily_dsa/tree/master/2249-count-the-hidden-sequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/2358-number-of-ways-to-split-array) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Thirupathi-702/daily_dsa/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/3427-special-array-ii) |
