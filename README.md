@@ -54,6 +54,7 @@
 | [0015-3sum](https://github.com/Thirupathi-702/daily_dsa/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/Thirupathi-702/daily_dsa/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Thirupathi-702/daily_dsa/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Thirupathi-702/daily_dsa/tree/master/0053-maximum-subarray) |
@@ -206,6 +207,7 @@
 | [0015-3sum](https://github.com/Thirupathi-702/daily_dsa/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Thirupathi-702/daily_dsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/Thirupathi-702/daily_dsa/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Thirupathi-702/daily_dsa/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0088-merge-sorted-array) |
@@ -395,6 +397,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Thirupathi-702/daily_dsa/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Thirupathi-702/daily_dsa/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Thirupathi-702/daily_dsa/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/0496-next-greater-element-i) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0779-max-chunks-to-make-sorted-ii) |
@@ -504,6 +507,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Thirupathi-702/daily_dsa/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Thirupathi-702/daily_dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Thirupathi-702/daily_dsa/tree/master/0055-jump-game) |
@@ -560,6 +564,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Thirupathi-702/daily_dsa/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/0496-next-greater-element-i) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Thirupathi-702/daily_dsa/tree/master/0780-max-chunks-to-make-sorted) |
