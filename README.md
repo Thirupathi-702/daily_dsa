@@ -66,6 +66,7 @@
 | [0078-subsets](https://github.com/Thirupathi-702/daily_dsa/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Thirupathi-702/daily_dsa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Thirupathi-702/daily_dsa/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thirupathi-702/daily_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Thirupathi-702/daily_dsa/tree/master/0128-longest-consecutive-sequence) |
@@ -403,6 +404,7 @@
 | [0020-valid-parentheses](https://github.com/Thirupathi-702/daily_dsa/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Thirupathi-702/daily_dsa/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Thirupathi-702/daily_dsa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Thirupathi-702/daily_dsa/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Thirupathi-702/daily_dsa/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Thirupathi-702/daily_dsa/tree/master/0735-asteroid-collision) |
@@ -433,6 +435,7 @@
 | [0048-rotate-image](https://github.com/Thirupathi-702/daily_dsa/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Thirupathi-702/daily_dsa/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Thirupathi-702/daily_dsa/tree/master/0073-set-matrix-zeroes) |
+| [0085-maximal-rectangle](https://github.com/Thirupathi-702/daily_dsa/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [1036-rotting-oranges](https://github.com/Thirupathi-702/daily_dsa/tree/master/1036-rotting-oranges) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Thirupathi-702/daily_dsa/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -518,6 +521,7 @@
 | [0045-jump-game-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Thirupathi-702/daily_dsa/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Thirupathi-702/daily_dsa/tree/master/0055-jump-game) |
+| [0085-maximal-rectangle](https://github.com/Thirupathi-702/daily_dsa/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thirupathi-702/daily_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Thirupathi-702/daily_dsa/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/Thirupathi-702/daily_dsa/tree/master/0392-is-subsequence) |
@@ -573,6 +577,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Thirupathi-702/daily_dsa/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Thirupathi-702/daily_dsa/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Thirupathi-702/daily_dsa/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/0496-next-greater-element-i) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Thirupathi-702/daily_dsa/tree/master/0780-max-chunks-to-make-sorted) |
