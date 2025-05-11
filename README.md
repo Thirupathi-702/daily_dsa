@@ -89,6 +89,7 @@
 | [0539-minimum-time-difference](https://github.com/Thirupathi-702/daily_dsa/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Thirupathi-702/daily_dsa/tree/master/0560-subarray-sum-equals-k) |
+| [0735-asteroid-collision](https://github.com/Thirupathi-702/daily_dsa/tree/master/0735-asteroid-collision) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Thirupathi-702/daily_dsa/tree/master/0780-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/Thirupathi-702/daily_dsa/tree/master/0792-binary-search) |
@@ -329,6 +330,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Thirupathi-702/daily_dsa/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/Thirupathi-702/daily_dsa/tree/master/0735-asteroid-collision) |
 | [0906-walking-robot-simulation](https://github.com/Thirupathi-702/daily_dsa/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Thirupathi-702/daily_dsa/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Thirupathi-702/daily_dsa/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -401,6 +403,7 @@
 | [0042-trapping-rain-water](https://github.com/Thirupathi-702/daily_dsa/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Thirupathi-702/daily_dsa/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Thirupathi-702/daily_dsa/tree/master/0735-asteroid-collision) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Thirupathi-702/daily_dsa/tree/master/0780-max-chunks-to-make-sorted) |
 | [0943-sum-of-subarray-minimums](https://github.com/Thirupathi-702/daily_dsa/tree/master/0943-sum-of-subarray-minimums) |
