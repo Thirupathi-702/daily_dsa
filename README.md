@@ -65,6 +65,7 @@
 | [0075-sort-colors](https://github.com/Thirupathi-702/daily_dsa/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Thirupathi-702/daily_dsa/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Thirupathi-702/daily_dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thirupathi-702/daily_dsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Thirupathi-702/daily_dsa/tree/master/0128-longest-consecutive-sequence) |
@@ -401,6 +402,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Thirupathi-702/daily_dsa/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Thirupathi-702/daily_dsa/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Thirupathi-702/daily_dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Thirupathi-702/daily_dsa/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Thirupathi-702/daily_dsa/tree/master/0735-asteroid-collision) |
@@ -570,6 +572,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Thirupathi-702/daily_dsa/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Thirupathi-702/daily_dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/0496-next-greater-element-i) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Thirupathi-702/daily_dsa/tree/master/0780-max-chunks-to-make-sorted) |
