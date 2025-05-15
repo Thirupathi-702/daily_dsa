@@ -309,6 +309,7 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Thirupathi-702/daily_dsa/tree/master/0055-jump-game) |
+| [0402-remove-k-digits](https://github.com/Thirupathi-702/daily_dsa/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Thirupathi-702/daily_dsa/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Thirupathi-702/daily_dsa/tree/master/0410-split-array-largest-sum) |
 | [0670-maximum-swap](https://github.com/Thirupathi-702/daily_dsa/tree/master/0670-maximum-swap) |
@@ -363,6 +364,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Thirupathi-702/daily_dsa/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Thirupathi-702/daily_dsa/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Thirupathi-702/daily_dsa/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/Thirupathi-702/daily_dsa/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Thirupathi-702/daily_dsa/tree/master/0409-longest-palindrome) |
 | [0539-minimum-time-difference](https://github.com/Thirupathi-702/daily_dsa/tree/master/0539-minimum-time-difference) |
 | [0742-to-lower-case](https://github.com/Thirupathi-702/daily_dsa/tree/master/0742-to-lower-case) |
@@ -409,6 +411,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Thirupathi-702/daily_dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Thirupathi-702/daily_dsa/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/Thirupathi-702/daily_dsa/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/Thirupathi-702/daily_dsa/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Thirupathi-702/daily_dsa/tree/master/0735-asteroid-collision) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0779-max-chunks-to-make-sorted-ii) |
@@ -582,6 +585,7 @@
 | [0042-trapping-rain-water](https://github.com/Thirupathi-702/daily_dsa/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Thirupathi-702/daily_dsa/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Thirupathi-702/daily_dsa/tree/master/0085-maximal-rectangle) |
+| [0402-remove-k-digits](https://github.com/Thirupathi-702/daily_dsa/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/0496-next-greater-element-i) |
 | [0779-max-chunks-to-make-sorted-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0779-max-chunks-to-make-sorted-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Thirupathi-702/daily_dsa/tree/master/0780-max-chunks-to-make-sorted) |
