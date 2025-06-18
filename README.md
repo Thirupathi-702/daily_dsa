@@ -106,6 +106,7 @@
 | [0952-word-subsets](https://github.com/Thirupathi-702/daily_dsa/tree/master/0952-word-subsets) |
 | [0965-unique-email-addresses](https://github.com/Thirupathi-702/daily_dsa/tree/master/0965-unique-email-addresses) |
 | [1036-rotting-oranges](https://github.com/Thirupathi-702/daily_dsa/tree/master/1036-rotting-oranges) |
+| [1046-max-consecutive-ones-iii](https://github.com/Thirupathi-702/daily_dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Thirupathi-702/daily_dsa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1063-best-sightseeing-pair](https://github.com/Thirupathi-702/daily_dsa/tree/master/1063-best-sightseeing-pair) |
 | [1256-rank-transform-of-an-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/1256-rank-transform-of-an-array) |
@@ -255,6 +256,7 @@
 | [0882-peak-index-in-a-mountain-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Thirupathi-702/daily_dsa/tree/master/0907-koko-eating-bananas) |
 | [0910-nth-magical-number](https://github.com/Thirupathi-702/daily_dsa/tree/master/0910-nth-magical-number) |
+| [1046-max-consecutive-ones-iii](https://github.com/Thirupathi-702/daily_dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Thirupathi-702/daily_dsa/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Thirupathi-702/daily_dsa/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Thirupathi-702/daily_dsa/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -431,6 +433,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Thirupathi-702/daily_dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Thirupathi-702/daily_dsa/tree/master/0239-sliding-window-maximum) |
+| [1046-max-consecutive-ones-iii](https://github.com/Thirupathi-702/daily_dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Thirupathi-702/daily_dsa/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Thirupathi-702/daily_dsa/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Thirupathi-702/daily_dsa/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -600,6 +603,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Thirupathi-702/daily_dsa/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Thirupathi-702/daily_dsa/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Thirupathi-702/daily_dsa/tree/master/0560-subarray-sum-equals-k) |
+| [1046-max-consecutive-ones-iii](https://github.com/Thirupathi-702/daily_dsa/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Thirupathi-702/daily_dsa/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Thirupathi-702/daily_dsa/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Thirupathi-702/daily_dsa/tree/master/1537-maximum-score-after-splitting-a-string) |
