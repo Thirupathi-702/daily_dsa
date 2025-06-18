@@ -1,13 +1,16 @@
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
-        d={}
-        m=0
+        hash=[-1]*256
+        r=0
         l=0
-        for i in range(len(s)):
-            d[s[i]]=d.get(s[i],0)+1
-            while d[s[i]]>1:
-                d[s[l]]-=1
-                l+=1
-            m=max(m,i-l+1)
-        return m
-            
+        maxlen=0
+        n=len(s)
+        while r<n:
+            if hash[ord(s[r])]!=-1:
+                if hash[ord(s[r])]>=l:
+                    l=hash[ord(s[r])]+1
+            size=r-l+1
+            maxlen=max(maxlen,size)
+            hash[ord(s[r])]=r
+            r+=1
+        return maxlen
