@@ -50,6 +50,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Thirupathi-702/daily_dsa/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Thirupathi-702/daily_dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Thirupathi-702/daily_dsa/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Thirupathi-702/daily_dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -171,6 +172,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Thirupathi-702/daily_dsa/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Thirupathi-702/daily_dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Thirupathi-702/daily_dsa/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Thirupathi-702/daily_dsa/tree/master/0128-longest-consecutive-sequence) |
