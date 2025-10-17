@@ -169,6 +169,7 @@
 | [3469-maximum-height-of-a-triangle](https://github.com/Thirupathi-702/daily_dsa/tree/master/3469-maximum-height-of-a-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Thirupathi-702/daily_dsa/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/Thirupathi-702/daily_dsa/tree/master/3790-fruits-into-baskets-ii) |
+| [4003-longest-fibonacci-subarray](https://github.com/Thirupathi-702/daily_dsa/tree/master/4003-longest-fibonacci-subarray) |
 ## Hash Table
 |  |
 | ------- |
